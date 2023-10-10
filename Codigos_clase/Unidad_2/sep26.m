@@ -30,7 +30,7 @@ omega_d=(omega_n)*sqrt(1-zeta)
 beta=atan((omega_d)/(zeta*omega_n))
 tr=(pi-beta)/(omega_d)
 tp=pi/omega_d
-Mp=100*((2.51-2)/(2))
+Mp=100*((2.5077-2)/(2))
 ts2=(4)/(zeta*omega_n)
 ts5=(3)/(zeta*omega_n)
 %% Usando stepinfo
