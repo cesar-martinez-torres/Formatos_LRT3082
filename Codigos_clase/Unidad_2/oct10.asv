@@ -1,7 +1,0 @@
-G=tf([1],[5 1])
-polo=pole(G)
-figure
-step(G)
-grid on
-syms tau s 
-eqn=tau*s+1==0
