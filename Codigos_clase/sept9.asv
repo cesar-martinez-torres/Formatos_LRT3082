@@ -10,7 +10,4 @@ syms s K
 R(s) = (2*s^2 + 5*s + 1) / (s^3 + 7*s^2 +2*s + 7)  
 C(s)=K
 % series
-P1=C*R
-%feedback
-P2=P1/(1+P1)
-P2=simplify(P2)
+P1=
